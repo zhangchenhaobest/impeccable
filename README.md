@@ -1,3 +1,29 @@
+# impeccable
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+为编码 Agent 提供设计语汇：打磨、评审、审计，并在发布前发现 AI 味内容。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # Impeccable
 
 The design vocabulary for your coding agent. Steer with `polish` and `bolder`, review with `critique` and `audit`, and catch AI slop before it ships.
